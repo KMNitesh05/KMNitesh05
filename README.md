@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nitesh Kumar (@KMNitesh05) Ph.D., Washington State University, Pullman.
+- 👋 Hi, I’m Nitesh Kumar (@KMNitesh05), Postdoc Research Associate, The University of Utah, SLC.
 - 👀 I’m interested in Computational Chemistry and Network Theory 
 - 📫 nitesh.kumar@wsu.edu
 
