@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nitesh Kumar (@KMNitesh05), Postdoc Research Associate, The University of Utah, SLC.
+- 👋 Hi, I’m Nitesh Kumar (@KMNitesh05), Postdoctoral Research Associate, Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee.
 - 👀 I’m interested in Computational Chemistry and Topological Data Analysis
-- 📫 nitesh.kumar@wsu.edu, nitesh.kumar@utah.edu
+- 📫 niteshgoesactive@gmail.com
 
 I am interested in the intersection of machine learning, interfacial chemistry, supramolecular chemistry, and data science. My first research focus was the molecular simulation of biopolymers(protein-water interactions), working at UDelhi. Since then, I have been working on understanding chemical transport and organization at liquid/liquid interfaces and developing tools for chemical data analysis. My research involves classical molecular dynamics simulations, ab-initio molecular dynamics simulations, and state-of-the-art topological network analysis using graph theory. In the future, I am interested in translating my knowledge and skills into soft-matter chemistry and energy applications.
 I believe in shared knowledge and equal opportunity to everyone.
