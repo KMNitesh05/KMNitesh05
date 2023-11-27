@@ -11,7 +11,7 @@ Check out the sub-level set persistent homology codes i wrote for the analysis o
 
 https://gitlab.com/aurora-clark-public/adsorbate-ph
 
-![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Nitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-kmnitesh05&show_icons=true&theme=radical)
 
 
 
