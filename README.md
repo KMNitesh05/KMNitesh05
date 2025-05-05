@@ -1,4 +1,4 @@
-- Hi, I’m Nitesh Kumar (@KMNitesh05), Postdoctoral Research Associate, Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee.
+- Hi, I’m Nitesh Kumar (@KMNitesh05), Postdoctoral Research Associate, Material Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California.
 - I’m interested in Computational Chemistry and Topological Data Analysis
 - 📫 niteshgoesactive@gmail.com
 
